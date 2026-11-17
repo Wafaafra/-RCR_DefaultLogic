@@ -1,0 +1,10 @@
+{
+    "monde": [
+        "Quaker",
+        "Republican"
+    ],
+    "defauts": [
+        "Quaker : Pacifist / Pacifist",
+        "Republican : ~Pacifist / ~Pacifist"
+    ]
+}
